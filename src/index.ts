@@ -16,6 +16,8 @@ client.on("ready", () => {
     featuresDir: path.join(__dirname, "../features"),
 
     typeScript: true,
+
+	testServers: ["900633474858352660"]
   });
 });
 

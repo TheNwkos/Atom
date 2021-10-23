@@ -4,7 +4,7 @@
   "description": "Source Code For Atom#1214",
   "main": "src/index.js",
   "scripts": {
-    "test": "node src/index.js",
+    "test": "nodemon src/index.js",
     "dev": "nodemon src/index.ts"
   },
   "repository": {
@@ -16,20 +16,22 @@
     "Science",
     "Group"
   ],
-  "author": [
-    "Note",
-    "BlackShadow441"
-  ],
+  "author": "Nox, BlackShadow441",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TheNwkos/Atom/issues"
   },
   "homepage": "https://github.com/TheNwkos/Atom#readme",
   "dependencies": {
+    "colour": "^0.7.1",
     "discord.js": "^13.2.0",
     "dotenv": "^10.0.0",
     "nodemon": "^2.0.14",
+    "ts-node": "^10.4.0",
     "typescript": "^4.4.4",
     "wokcommands": "^1.5.3"
+  },
+  "devDependencies": {
+    "@types/color": "^3.0.2"
   }
 }

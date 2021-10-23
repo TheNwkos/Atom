@@ -13,11 +13,11 @@ client.on("ready", () => {
 
   new WOKCommands(client, {
     commandsDir: path.join(__dirname, "../commands"),
-    featuresDir: path.join(__dirname, "../features"),
 
     typeScript: true,
 
-	testServers: ["900633474858352660"]
+	testServers: ["900633474858352660"],
+  botOwners: ['865542945402126356', '707821823915589653']
   });
 });
 

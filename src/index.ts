@@ -28,7 +28,8 @@ client.on("ready", () => {
       'command',
       'channelonly',
       'help',
-      'requiredrole'
+      'requiredrole',
+      'slash',
     ]
   })
 

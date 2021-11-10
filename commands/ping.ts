@@ -8,7 +8,7 @@ export default {
     slash: 'both',
 
     callback: ({ message, interaction }) => {
-        const ping = `🏓pong! At ${Date.now() -  message.createdTimestamp}ms`
+        const ping = `🏓Pong! At ${Date.now() -  message.createdTimestamp}ms`
 
         if (message) {
             message.reply({

@@ -4,8 +4,8 @@ Source Code For Atom#1934 also heres the [Discord Server](https://discord.gg/nT8
 
 # Requirements
 
-- [A life](https://rickroll.com) ;)
-- [Discord Bot](https://discord.com/developers) you can create and get the token from there if you don't know how look it up
+- [A life](https://rickrolled.com/) ;)
+- [Discord Bot](https://discord.com/developers) you can create and get the token from there if you don't know how look it up or [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Mongo uri](https://www.mongodb.com/) if you want a database
 - [Node](https://nodejs.org/en) v.16.6.0 or later LTS recommended
 - [Git](https://git-scm.com/downloads) v.2.12.0 or later

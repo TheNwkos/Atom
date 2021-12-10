@@ -1,6 +1,8 @@
 # Atom
 
-Source Code For Atom#1214
+Source Code For Atom#1934
+
+[Discord Server](https://discord.gg/nT8dSF8Hcx)
 
 # Requirements
 

@@ -1,0 +1,9 @@
+2021/12/10
+version: 1.0.2
+author: Nox
+
+- Made the README.md file more descriptive
+- Changed the .gitignore file
+- Working with .json files for RandomFacts.ts command
+- Added build files for npm, yarn and pnpm
+- Messed around with tsconfig.json

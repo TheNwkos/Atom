@@ -1,6 +1,18 @@
-# Folders
+# NodeJS
 node_modules
 
-# Files
-.env
+# Lock files
 package-lock.json
+yarn.lock
+pnpm-lock.json
+
+# Environments
+.env
+
+# Text Editor/IDE Settings
+.vscode
+.atom
+.idea
+
+# Others
+.DS_Store

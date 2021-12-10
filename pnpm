@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Building and running Atom now!"
+
+git pull && pnpm install 
+pnpm run dev

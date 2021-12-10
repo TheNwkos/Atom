@@ -1,6 +1,6 @@
 # Atom
 
-Source Code For Atom#1934 also heres the [Discord Server](https://discord.gg/nT8dSF8Hcx) for Atom still WIP so, :'_
+Source Code For Atom#1934 also heres the [Discord Server](https://discord.gg/nT8dSF8Hcx) for Atom still WIP so, :')
 
 # Requirements
 

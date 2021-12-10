@@ -1,8 +1,6 @@
 # Atom
 
-Source Code For Atom#1934
-
-[Discord Server](https://discord.gg/nT8dSF8Hcx)
+Source Code For Atom#1934 also heres the [Discord Server](https://discord.gg/nT8dSF8Hcx) for Atom still WIP so, :'_
 
 # Requirements
 
@@ -11,15 +9,25 @@ Source Code For Atom#1934
 - [npm](https://www.npmjs.com/) v.7 or later or [yarn](https://yarnpkg.com/) v.1.3 or later or [pnpm](https://pnpm.js.org/) v.5 or later
 
 # Building
-
-    npm run build
-    or
+```
+./npm
+./yarn
+./pnpm
+```
+or you could
+   
     git pull && npm install
+    git pull && yarn install
+    git pull && pnpm install
 
 # Running
+```
+npm run dev
+yarn run dev
+pnpm run dev
+```
+or just
 
-    npm run dev
-    or
     ts-node src/index.ts
 
 # Documentation

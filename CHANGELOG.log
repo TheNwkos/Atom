@@ -7,3 +7,4 @@ author: Nox
 - Working with .json files for RandomFacts.ts command
 - Added build files for npm, yarn and pnpm
 - Messed around with tsconfig.json
+- Updated .gitignore file

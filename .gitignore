@@ -6,9 +6,6 @@ package-lock.json
 yarn.lock
 pnpm-lock.json
 
-# Environments
-.env
-
 # Text Editor/IDE Settings
 .vscode
 .atom

@@ -7,9 +7,9 @@ Source Code For Atom#1934 also heres the [Discord Server](https://discord.gg/nT8
 - [A life](https://rickrolled.com/) ;)
 - [Discord Bot](https://discord.com/developers) you can create and get the token from there if you don't know how look it up or [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Mongo uri](https://www.mongodb.com/) if you want a database
-- [Node](https://nodejs.org/en) v.16.6.0 or later LTS recommended
-- [Git](https://git-scm.com/downloads) v.2.12.0 or later
-- [npm](https://www.npmjs.com/) v.7 or later or [yarn](https://yarnpkg.com/) v.1.3 or later or [pnpm](https://pnpm.js.org/) v.5 or later
+- [Node](https://nodejs.org/en) v16.6.0 or later LTS recommended
+- [Git](https://git-scm.com/downloads) v2.12.0 or later
+- [npm](https://www.npmjs.com/) v7 or later or [yarn](https://yarnpkg.com/) v1.3 or later or [pnpm](https://pnpm.js.org/) v5 or later
 
 # Building
 ```
@@ -31,7 +31,7 @@ pnpm run dev
 ```
 or just
 
-    ts-node src/index.ts
+`ts-node src/index.ts`
 
 # Documentation
 

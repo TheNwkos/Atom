@@ -1,8 +1,8 @@
 import DiscordJS, { Intents } from "discord.js";
 import WOKCommands from "wokcommands";
 import path from "path";
-import chalk from 'chalk';
-import 'dotenv/config';
+import chalk from "chalk";
+import "dotenv/config";
 
 const client = new DiscordJS.Client({
   intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES, Intents.FLAGS.GUILD_MESSAGE_REACTIONS]
@@ -21,8 +21,8 @@ client.on("ready", () => {
       keepAlive: true,
     },
 
-	testServers: ["900633474858352660"],
-    botOwners: ['865542945402126356', '707821823915589653'],
+    testServers: ["server_id_1"],
+    botOwners: ['owner_id_1', 'owner_id_2'],
 
     disabledDefaultCommands: [
       'command',
